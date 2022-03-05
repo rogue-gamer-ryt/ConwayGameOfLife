@@ -3,3 +3,6 @@ main {
   vertical-align: center;
   line-height: 100vh
 }
+body {
+  font-family: "Roboto Mono", monospace;
+}
